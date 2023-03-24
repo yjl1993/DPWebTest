@@ -7,6 +7,13 @@ verify_ssl = true
 
 [packages]
 selenium = "*"
+pytest = "*"
+allure-python-commons = "*"
+allure-pytest = "*"
+requests = "*"
+pyyaml = "*"
+coverage = "*"
+ujson = "*"
 
 [requires]
 python_version = "3.8"
